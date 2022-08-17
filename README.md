@@ -8,8 +8,13 @@ Seperate Database folder which contains SQL query to create a database used for 
 Copy the following equries and execute on mySQL.
 Pool Diagram of Database is also given to understand the relation of each tables.
 
-Once the database has been successfully created, created a user account of mySQL 
+It is coded in HTML5, PHP, JAVA SCRIPT and mySQL. XAMPP is required to use Appache on this web page.
+Once the database has been successfully created, create a new user on localhost.
 Host Name: localhost
 User Name: awais
 Password: test1234
 and grant ALL PRIVILEGES.
+
+Admin Login Credential.
+Username: admin
+Password: admin
